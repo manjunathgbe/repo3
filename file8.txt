@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+new file
+=======
+hello
+>>>>>>> c812b7ec268aaccaf6b3421ea645a622531771ea
